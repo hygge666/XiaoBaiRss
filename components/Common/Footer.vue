@@ -6,7 +6,7 @@
 				<span
 					>2024
 					<a
-						href="https://www.rss.lxyq.link/news"
+						href="https://rss.lxyq.link/news"
 						target="_blank"
 						class="decoration-transparent text-[#a4715c]"
 						>小白rss</a
