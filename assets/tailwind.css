@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+  .transition-bg-hover {
+    @apply transition-all bg-slate-300 p-2 bg-opacity-0 duration-300 hover:bg-opacity-100 rounded-md
+  }
+
+  .transition-bg-hover-200 {
+    @apply transition-all bg-slate-200 p-2 bg-opacity-0 duration-300 hover:bg-opacity-100 rounded-md
+  }
+}
